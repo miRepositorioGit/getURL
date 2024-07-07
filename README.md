@@ -1,7 +1,7 @@
 # getURL-htaccess
-i.- Muestra como desglozar una petición URL.
+1de2) Muestra como desglozar una petición URL.
 
-ii.- Muestra como pre-procesar una petición con scripts **.htaccess** en el lado del servidor.
+2de2) Muestra como pre-procesar una petición con scripts **.htaccess** en el lado del servidor.
 # Descripción.
 
 Una petición **URL** es un  acrónimo, (del inglés Uniform Resource Locators) es un localizador de recursos 
