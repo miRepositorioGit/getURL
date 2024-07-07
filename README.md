@@ -4,10 +4,10 @@ Muestra como direccionar y desglozar una petición URL.
 Muestra como pre-procesar una petición con scripts **.htaccess**
 # Descripción.
 
-Una petición **URL** es un  acrónimo, (del inglés Uniform Resource Locators) es un Localizador de Recursos 
+Una petición **URL** es un  acrónimo, (del inglés Uniform Resource Locators) es un localizador de recursos 
 codificado en una dirección web única, sus componentes localizan y recuperan  recursos electrónicos.
 
-Una URL estándart tiene seis componentes, así que por ejemplo:
+Una URL estándart tiene hasta seis componentes, así que por ejemplo:
 
 ```
 http://www.example.com:80/path/to/myfile.html?key1=value1&key2=value2#SomewhereInTheDocument
