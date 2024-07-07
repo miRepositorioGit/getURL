@@ -1,5 +1,6 @@
 # getURL
 Muestra como direccionar y desglozar una petición URL.
+
 Muestra como pre-procesar una petición con scripts **.htaccess**
 # Descripción.
 
