@@ -7,7 +7,10 @@ Una petición **URL** es un  acrónimo, (del inglés Uniform Resource Locators) 
 codificado en una dirección web única, sus componentes localizan y recuperan  recursos electrónicos.
 
 Una URL estándart tiene seis componentes, así que por ejemplo:
-### http://www.example.com:80/path/to/myfile.html?key1=value1&key2=value2#SomewhereInTheDocument
+
+```
+http://www.example.com:80/path/to/myfile.html?key1=value1&key2=value2#SomewhereInTheDocument
+```
 
 | Número       | Componente              | Descripción |
 | :---         |     :---:               |  :---       |
