@@ -1,6 +1,6 @@
 # getURL
 Muestra como direccionar y desglozar una petición URL.
-
+Muestra como pre-procesar una petición con scripts **.htaccess**
 # Descripción.
 
 Una petición **URL** es un  acrónimo, (del inglés Uniform Resource Locators) es un Localizador de Recursos 
