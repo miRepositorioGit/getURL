@@ -7,9 +7,9 @@ Una petición **URL** es un  acrónimo, (del inglés Uniform Resource Locators) 
 codificado en una dirección web única, sus componentes localizan y recuperan  recursos electrónicos.
 
 Una URL estámdat tiene seis componentes, así que por ejemplo:
-# http://www.example.com:80/path/to/myfile.html?key1=value1&key2=value2#SomewhereInTheDocument
+## http://www.example.com:80/path/to/myfile.html?key1=value1&key2=value2#SomewhereInTheDocument
 
-| Componente | Center-aligned            | Right-aligned |
+| Número       | Componente              | Descripción |
 | :---         |     :---:               |          ---: |
 | 1 de 6       | http                    | http: define el tipo de protocolo usado para intercambuiar y,o transferir datos en el ámbito de una red por el navegador web. |
 | 2 de 6       | www.example.com         | identifica al nombre del dominio del servidor web, es una dirección codificada, en formato ipv4-ipv6, para identificar a un servidor web en una infraestructura de internet.      |
