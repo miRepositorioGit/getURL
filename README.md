@@ -6,8 +6,8 @@ Muestra como direccionar y desglozar una petición URL.
 Una petición **URL** es un  acrónimo, (del inglés Uniform Resource Locators) es un Localizador de Recursos 
 codificado en una dirección web única, sus componentes localizan y recuperan  recursos electrónicos.
 
-Una URL estámdat tiene seis componentes, así que por ejemplo:
-## http://www.example.com:80/path/to/myfile.html?key1=value1&key2=value2#SomewhereInTheDocument
+Una URL estándart tiene seis componentes, así que por ejemplo:
+### http://www.example.com:80/path/to/myfile.html?key1=value1&key2=value2#SomewhereInTheDocument
 
 | Número       | Componente              | Descripción |
 | :---         |     :---:               |  :---       |
